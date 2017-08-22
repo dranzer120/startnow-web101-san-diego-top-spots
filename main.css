@@ -1,0 +1,30 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    }
+
+td, th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+
+#map {
+        height: 60%;
+        width: 80%;
+      }
+
+
+html, body {
+        height: 100%;
+        width: 100%;
+        margin: 10px;
+        padding: 10px;
+      }
+
